@@ -1,32 +1,24 @@
 {
     "schedulechangedatabase": [
         {
-                "month": "6",
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "dayletter": "z"
+				"month": "6",
+                "day": "22",
+                "newscheduleformat": "1,2,3,4,5,6",
+                "starttimes": "{{7,8,9,10,12,13},{30,25,50,45,30,25}}"
+				"endtimes": "{{8,9,10,12,13,14},{25,45,40,25,20,15}}"
+                "notice": "This is the default notice"
+				"linktopdf": "http://shs.westportps.org/uploaded/site_files/shs/main_office/NGSS_Schedule_5.22.18.pdf"
         },
         {
-                "id": "c201",
-                "name": "Johnny Depp",
-                "email": "johnny_depp@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        .
-        .
-        .
-        .
+                "dayletter": "z"
+				"month": "6",
+                "day": "22",
+                "newscheduleformat": "1,2,3,4,5,6",
+                "starttimes": "{{7,8,9,10,12,13},{30,25,50,45,30,25}}"
+				"endtimes": "{{8,9,10,12,13,14},{25,45,40,25,20,15}}"
+                "notice": "This is the default notice"
+				"linktopdf": "http://shs.westportps.org/uploaded/site_files/shs/main_office/NGSS_Schedule_5.22.18.pdf"
+        }
   ]
 }
