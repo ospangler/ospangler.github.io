@@ -1,3 +1,2 @@
 # ospangler.github.io
-Remote Sync Database for StaplesHighSchoolScheduler Schedule Changes
-This site is used to allow this app to update its schedule
+This site serves as the Remote Sync Database for StaplesHighSchoolScheduler Schedule Changes, allowing the app to update depending on schedule changes without pushing an app store update and changing hard coded values every time I needed to. The database can be found by going to: https://ospangler.github.io/schedulechangedatabase.json
