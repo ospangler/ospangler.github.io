@@ -1,8 +1,8 @@
 {
 "dayletter":"z",
 "month":6,
-"day":18,
-"newscheduleformat":[7,6],
+"day":19,
+"newscheduleformat":[3,2],
 "starttimeshour":[8,10],
 "starttimesminute":[0,50],
 "endtimeshour":[10,12],
