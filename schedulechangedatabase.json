@@ -2,7 +2,7 @@
 "dayletter":"z",
 "month":8,
 "day":28,
-"newscheduleformat":[118,1,2,3,5,8,7],
+"newscheduleformat":[108,1,2,3,5,8,7],
 "starttimeshour":[7,7,8,9,10,12,13],
 "starttimesminute":[30,50,45,50,45,30,25],
 "endtimeshour":[7,8,9,10,12,13,14],
