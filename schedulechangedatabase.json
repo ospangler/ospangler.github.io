@@ -1,14 +1,14 @@
 {
 "dayletter":"z",
-"month":6,
-"day":20,
-"newscheduleformat":[4,1],
-"starttimeshour":[8,10],
-"starttimesminute":[0,50],
-"endtimeshour":[10,12],
-"endtimesminute":[0,50],
-"notice":"What makes the next tissue pop up? You can't explain that! - Bill OReilly",
+"month":8,
+"day":28,
+"newscheduleformat":[118,1,2,3,5,8,7],
+"starttimeshour":[7,7,8,9,10,12,1],
+"starttimesminute":[30,50,45,50,45,30,25],
+"endtimeshour":[7,8,9,10,12,1,2],
+"endtimesminute":[45,40,45,40,25,20,15],
+"notice":"My rhymes are fire, my beats are sick. I'm gonna noscope you like Fortnite John Wick. - Bill OReilly",
 "linktopdf":"http://shs.westportps.org/uploaded/site_files/shs/main_office/NGSS_Schedule_5.22.18.pdf",
 "dayletterliststart": 0,
-"dayletterdaynumber": [24,25,29,30,31,1,4,5,6,7,8,11,12,13,14,15,18]
+"dayletterdaynumber": [28,29,30,31,3,4,5,6,7]
 }
