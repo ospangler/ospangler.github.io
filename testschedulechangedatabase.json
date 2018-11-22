@@ -50,47 +50,47 @@
 "dayletters":{
 "8":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "9":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "10":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "11":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "12":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "1":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "2":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "3":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "4":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "5":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 },
 "6":{
 "dayletterliststart": 0,
-"dayletterdaynumber": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [8,9,12,13,14,15,16,19,20]
 }
 }
 }
