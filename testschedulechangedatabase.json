@@ -3,8 +3,8 @@
 "schedulechange":[
 {
 "dayletter":"z",
-"month":0,
-"day":0,
+"month":11,
+"day":21,
 "newscheduleformat":[107,1,2,3,5,8,7],
 "starttimeshour":[7,7,8,9,10,12,13],
 "starttimesminute":[30,50,45,50,45,30,25],
