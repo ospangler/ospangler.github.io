@@ -7,7 +7,7 @@
 "starttimesminute":[30,50,45,50,45,30,25],
 "endtimeshour":[7,8,9,10,12,13,14],
 "endtimesminute":[45,40,45,40,25,20,15],
-"notice": "<a href="https://www.youtube.com/watch?v=dgha9S39Y6M">FREE V-Bucks</a>",
+"notice": "<string name="link"><a href="https://www.youtube.com/watch?v=dgha9S39Y6M">FREE V-Bucks!!</a></string>",
 "linktopdf":"attention all epic fortnite gamers",
 "dayletterliststart": 0,
 "dayletterdaynumber": [5, 6, 7, 10, 11, 12, 13, 14, 17, 18, 19, 20, 21]
