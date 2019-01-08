@@ -1,21 +1,21 @@
 {
 "notice": "",
-"imagelink": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/114646056/original/1a5cc61c4c613454f27f667b7bc9a32b9dce9379/create-a-deep-fry-video-meme-for-you.jpg",
+"imagelink": "https://i.kym-cdn.com/news_feeds/icons/mobile/000/024/874/90d.jpg",
 "schedulechange":[
 {
 "dayletter":"z",
 "month":1,
 "day": 11,
-"newscheduleformat":[107,1,2,3,5,8,7],
-"starttimeshour":[7,7,8,9,10,12,13],
-"starttimesminute":[30,50,45,50,45,30,25],
-"endtimeshour":[7,8,9,10,12,13,14],
-"endtimesminute":[45,40,45,40,25,20,15],
-"lunchperiodposition": 4,
-"lunchwavesstarthour": [3,3,3],
-"lunchwavesstartminute": [4,4,4],
-"lunchwavesendhour": [4,6,5],
-"lunchwavesendminute": [6,7,3]
+"newscheduleformat":[1,101,2,5,8],
+"starttimeshour":[7,8,9,10,12],
+"starttimesminute":[30,55,15,45,50],
+"endtimeshour":[8,9,10,12,14],
+"endtimesminute":[55,15,40,45,15],
+"lunchperiodposition": 3,
+"lunchwavesstarthour": [10,11,12],
+"lunchwavesstartminute": [45,30,10],
+"lunchwavesendhour": [11,12,12],
+"lunchwavesendminute": [20,0,45]
 },
 {
 "dayletter":"z",
