@@ -5,8 +5,8 @@
 {
 "dayletter":"z",
 "month":1,
-"day": 11,
-"newscheduleformat":[1,101,2,5,8],
+"day": 16,
+"newscheduleformat":[3,101,4,6,7],
 "starttimeshour":[7,8,9,10,12],
 "starttimesminute":[30,55,15,45,50],
 "endtimeshour":[8,9,10,12,14],
@@ -21,7 +21,7 @@
 "dayletter":"z",
 "month":1,
 "day":14,
-"newscheduleformat":[1,102,5],
+"newscheduleformat":[1,101,5],
 "starttimeshour":[8,10,10],
 "starttimesminute":[0,0,50],
 "endtimeshour":[10,10,12],
@@ -36,16 +36,16 @@
 "dayletter":"z",
 "month":1,
 "day":15,
-"newscheduleformat":[2,102,8],
+"newscheduleformat":[2,101,8],
 "starttimeshour":[8,10,10],
 "starttimesminute":[0,0,50],
 "endtimeshour":[10,10,12],
 "endtimesminute":[0,50,50],
 "lunchperiodposition": 0,
-"lunchwavesstarthour": [0],
-"lunchwavesstartminute": [0],
-"lunchwavesendhour": [0],
-"lunchwavesendminute": [0]
+"lunchwavesstarthour": [],
+"lunchwavesstartminute": [],
+"lunchwavesendhour": [],
+"lunchwavesendminute": []
 }
 ],
 "dayletters":{
