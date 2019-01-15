@@ -1,6 +1,6 @@
 {
-"notice": "",
-"imagelink": "https://i.kym-cdn.com/news_feeds/icons/mobile/000/024/874/90d.jpg",
+"notice": "Don't screw up ~Owen Spangler",
+"imagelink": "",
 "schedulechange":[
 {
 "dayletter":"z",
@@ -20,8 +20,8 @@
 {
 "dayletter":"z",
 "month":1,
-"day":14,
-"newscheduleformat":[1,101,5],
+"day":17,
+"newscheduleformat":[3,101,4],
 "starttimeshour":[8,10,10],
 "starttimesminute":[0,0,50],
 "endtimeshour":[10,10,12],
