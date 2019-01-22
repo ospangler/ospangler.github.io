@@ -1,21 +1,21 @@
 {
-"notice": "Don't screw up ~Owen Spangler",
-"imagelink": "",
+"notice": "Second Semester WOOOOOOO!!!",
+"imagelink": "https://cdn.pixabay.com/photo/2018/01/24/18/05/background-3104413_1280.jpg",
 "schedulechange":[
 {
 "dayletter":"z",
 "month":1,
-"day": 22,
-"newscheduleformat":[107,1,2,3,5,8,7],
-"starttimeshour":[7,7,8,9,10,12,1],
-"starttimesminute":[30,45,25,50,45,30,25],
-"endtimeshour":[7,8,9,10,12,1,2],
-"endtimesminute":[40,20,45,40,25,20,15],
+"day": 16,
+"newscheduleformat":[3,101,4,6,7],
+"starttimeshour":[7,8,9,10,12],
+"starttimesminute":[30,55,15,45,50],
+"endtimeshour":[8,9,10,12,14],
+"endtimesminute":[55,15,40,45,15],
 "lunchperiodposition": 3,
-"lunchwavesstarthour": [10,11,11],
-"lunchwavesstartminute": [45,20,55],
+"lunchwavesstarthour": [10,11,12],
+"lunchwavesstartminute": [45,30,10],
 "lunchwavesendhour": [11,12,12],
-"lunchwavesendminute": [15,50,25]
+"lunchwavesendminute": [20,0,45]
 },
 {
 "dayletter":"z",
@@ -71,7 +71,7 @@
 },
 "1":{
 "dayletterliststart": 1,
-"dayletterlist": [23,24,25,28,29,30,31]
+"dayletterlist": [2,3,4,7,8,9,10,22,23,24,25,28,29,30,31]
 },
 "2":{
 "dayletterliststart": 0,
