@@ -1,21 +1,21 @@
 {
-"notice": "Second Semester WOOOOOOO!!!",
-"imagelink": "https://i.redd.it/5hbxmkywwrd21.png",
+"notice": "Aim Low. Reach Your Goals. Avoid Disappointment.",
+"imagelink": "https://s3.envato.com/files/218429202/Preview_Image_.jpg",
 "schedulechange":[
 {
 "dayletter":"z",
-"month":1,
-"day": 16,
-"newscheduleformat":[3,101,4,6,7],
-"starttimeshour":[7,8,9,10,12],
-"starttimesminute":[30,55,15,45,50],
-"endtimeshour":[8,9,10,12,14],
-"endtimesminute":[55,15,40,45,15],
+"month":2,
+"day": 12,
+"newscheduleformat":[4,1,2,8,5,6,107],
+"starttimeshour":[7,8,9,10,12,13,13],
+"starttimesminute":[30,20,45,30,15,0,40],
+"endtimeshour":[8,9,10,12,13,13,14],
+"endtimesminute":[15,40,25,10,55,35,15],
 "lunchperiodposition": 3,
-"lunchwavesstarthour": [10,11,12],
-"lunchwavesstartminute": [45,30,10],
-"lunchwavesendhour": [11,12,12],
-"lunchwavesendminute": [20,0,45]
+"lunchwavesstarthour": [10,11,11],
+"lunchwavesstartminute": [30,5,40],
+"lunchwavesendhour": [11,11,12],
+"lunchwavesendminute": [0,35,10]
 },
 {
 "dayletter":"z",
