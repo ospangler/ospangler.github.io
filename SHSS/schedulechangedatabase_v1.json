@@ -5,17 +5,17 @@
 {
 "dayletter":"z",
 "month":3,
-"day": 7,
-"newscheduleformat":[119,7,1,4,5],
-"starttimeshour":[7,11,12,13,13],
-"starttimesminute":[30,5,35,10,45],
-"endtimeshour":[11,12,13,13,14],
-"endtimesminute":[5,30,5,40,15],
-"lunchperiodposition": 1,
-"lunchwavesstarthour": [11,11,12],
-"lunchwavesstartminute": [5,35,5],
-"lunchwavesendhour": [11,12,12],
-"lunchwavesendminute": [30,0,30]
+"day": 27,
+"newscheduleformat":[119,6,4,8],
+"starttimeshour":[7,12,12,1],
+"starttimesminute":[30,05,50,35],
+"endtimeshour":[12,12,1,2],
+"endtimesminute":[0,45,30,15],
+"lunchperiodposition": 0,
+"lunchwavesstarthour": [],
+"lunchwavesstartminute": [],
+"lunchwavesendhour": [],
+"lunchwavesendminute": []
 },
 {
 "dayletter":"z",
