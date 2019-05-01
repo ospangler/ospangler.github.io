@@ -1,5 +1,5 @@
 {
-"notice": "Is PSAT pronounced pee-sat or pissat?",
+"notice": "The Variety Show is Today.",
 "imagelink": "https://s3.envato.com/files/218429202/Preview_Image_.jpg",
 "schedulechange":[
 {
@@ -19,18 +19,18 @@
 },
 {
 "dayletter":"z",
-"month":1,
-"day":17,
-"newscheduleformat":[3,101,4],
-"starttimeshour":[8,10,10],
-"starttimesminute":[0,0,50],
-"endtimeshour":[10,10,12],
-"endtimesminute":[0,50,50],
-"lunchperiodposition": 0,
-"lunchwavesstarthour": [],
-"lunchwavesstartminute": [],
-"lunchwavesendhour": [],
-"lunchwavesendminute": []
+"month":5,
+"day":1,
+"newscheduleformat":[4,1,2,6,8,5],
+"starttimeshour":[7,8,9,9,10,12],
+"starttimesminute":[30,10,10,50,30,15],
+"endtimeshour":[8,9,9,10,12,14],
+"endtimesminute":[5,5,45,25,10,15],
+"lunchperiodposition": 4,
+"lunchwavesstarthour": [10,11,11],
+"lunchwavesstartminute": [30,5,40],
+"lunchwavesendhour": [11,11,12],
+"lunchwavesendminute": [0,35,10]
 },
 {
 "dayletter":"z",
