@@ -1,5 +1,5 @@
 {
-"notice": "The Variety Show is Today. Presentation #1 is 12:20-1:10, #2 is 1:25-2:15",
+"notice": "Grim Reaper Day #1 is at 8:35-9:10, #2 is at 9:25-10:00",
 "imagelink": "https://s3.envato.com/files/218429202/Preview_Image_.jpg",
 "schedulechange":[
 {
@@ -34,18 +34,18 @@
 },
 {
 "dayletter":"z",
-"month":1,
-"day":15,
-"newscheduleformat":[2,101,8],
-"starttimeshour":[8,10,10],
-"starttimesminute":[0,0,50],
-"endtimeshour":[10,10,12],
-"endtimesminute":[0,50,50],
-"lunchperiodposition": 0,
-"lunchwavesstarthour": [],
-"lunchwavesstartminute": [],
-"lunchwavesendhour": [],
-"lunchwavesendminute": []
+"month":5,
+"day": 7,
+"newscheduleformat":[4,1,2,8,5,6],
+"starttimeshour":[7,8,10,10,12,13],
+"starttimesminute":[30,20,5,55,40,30],
+"endtimeshour":[8,10,10,12,13,14],
+"endtimesminute":[15,0,50,35,25,15],
+"lunchperiodposition": 3,
+"lunchwavesstarthour": [10,11,12],
+"lunchwavesstartminute": [55,30,5],
+"lunchwavesendhour": [11,12,12],
+"lunchwavesendminute": [25,0,35]
 }
 ],
 "dayletters":{
