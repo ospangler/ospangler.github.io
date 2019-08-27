@@ -4,7 +4,7 @@
 "schedulechange":[
 {
 "dayletter":"z",
-"month":3,
+"month": 3,
 "day": 27,
 "newscheduleformat":[119,6,4,8],
 "starttimeshour":[7,12,12,13],
@@ -51,47 +51,58 @@
 "dayletters":{
 "8":{
 "dayletterliststart": 0,
-"dayletterlist": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [27,28,29,30],
+"connectionslist": [27,28,29,30]
 },
 "9":{
 "dayletterliststart": 0,
-"dayletterlist": [8,9,12,13,14,15,16,19,20]
+"dayletterlist": [3,4,5,6,9,10,11,12,13,16,17,18,19,20,23,24,25,26,27],
+"connectionslist": [5,10,12,17,19]
 },
 "10":{
-"dayletterliststart": 0,
-"dayletterlist": [8,9,12,13,14,15,16,19,20]
+"dayletterliststart": 3,
+"dayletterlist": [1,2,3,4,7,8,10,11,14,15,16,17,18,21,22,23,24,25,28,29,30,31]
+"connectionslist": [3,8,15,17,22,24],
 },
 "11":{
-"dayletterliststart": 0,
-"dayletterlist": [1,2,5,7,8,9,12,13,14,15,16,19,20,26,27,28,29,30]
+"dayletterliststart": 1,
+"dayletterlist": [1,4,6,7,8,11,12,13,14,15,18,19,20,21,22,25,26],
+"connectionslist": [7,12,14,19,21]
 },
 "12":{
-"dayletterliststart": 2,
-"dayletterlist": [3,4,5,6,7,10,11,12,13,14,17,18,19,20,21]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 },
 "1":{
-"dayletterliststart": 1,
-"dayletterlist": [2,3,4,7,8,9,10,22,23,24,25,28,29,30,31]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 },
 "2":{
 "dayletterliststart": 0,
-"dayletterlist": [1,4,5,6,7,8,11,12,13,14,25,26,27,28]
+"dayletterlist": [],
+"connectionslist": []
 },
 "3":{
-"dayletterliststart": 2,
-"dayletterlist": [1,4,5,6,7,8,11,12,13,14,15,18,19,20,21,22,25,26,28,29]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 },
 "4":{
-"dayletterliststart": 2,
-"dayletterlist": [1,2,3,4,5,8,9,10,11,12,22,23,24,25,26,29,30]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 },
 "5":{
-"dayletterliststart": 3,
-"dayletterlist": [1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,28,29,30,31]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 },
 "6":{
-"dayletterliststart": 1,
-"dayletterlist": [3,4,5]
+"dayletterliststart": 0,
+"dayletterlist": [],
+"connectionslist": []
 }
 }
 }
