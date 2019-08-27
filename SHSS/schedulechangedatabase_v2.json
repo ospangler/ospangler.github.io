@@ -8,7 +8,7 @@
 "day": 27,
 "newscheduleformat":[119,6,4,8],
 "starttimeshour":[7,12,12,13],
-"starttimesminute":[30,05,50,35],
+"starttimesminute":[30,5,50,35],
 "endtimeshour":[12,12,13,14],
 "endtimesminute":[0,45,30,15],
 "lunchperiodposition": 0,
@@ -61,8 +61,8 @@
 },
 "10":{
 "dayletterliststart": 3,
-"dayletterlist": [1,2,3,4,7,8,10,11,14,15,16,17,18,21,22,23,24,25,28,29,30,31]
-"connectionslist": [3,8,15,17,22,24],
+"dayletterlist": [1,2,3,4,7,8,10,11,14,15,16,17,18,21,22,23,24,25,28,29,30,31],
+"connectionslist": [3,8,15,17,22,24]
 },
 "11":{
 "dayletterliststart": 1,
