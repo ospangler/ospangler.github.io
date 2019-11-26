@@ -4,8 +4,8 @@
 "schedulechange":[
 {
 "dayletter":"z",
-"month": 3,
-"day": 27,
+"month": 1,
+"day": 13,
 "newscheduleformat":[119,6,4,8],
 "starttimeshour":[7,12,12,13],
 "starttimesminute":[30,5,50,35],
@@ -19,8 +19,8 @@
 },
 {
 "dayletter":"z",
-"month":5,
-"day":1,
+"month":1,
+"day":14,
 "newscheduleformat":[4,1,2,6,8,5],
 "starttimeshour":[7,8,9,9,10,12],
 "starttimesminute":[30,10,10,50,30,15],
@@ -34,8 +34,8 @@
 },
 {
 "dayletter":"z",
-"month":5,
-"day": 7,
+"month":1,
+"day": 15,
 "newscheduleformat":[4,1,2,8,5,6],
 "starttimeshour":[7,8,10,10,12,13],
 "starttimesminute":[30,20,5,55,40,30],
@@ -70,39 +70,39 @@
 "connectionslist": [7,12,14,19,21]
 },
 "12":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 2,
+"dayletterlist": [2,3,4,5,6,9,10,11,12,13,16,17,18,19,20],
+"connectionslist": [3,5,10,12,17,19]
 },
 "1":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 1,
+"dayletterlist": [2,3,6,7,8,9,10,23,24,27,28,29,30,31],
+"connectionslist": [7,9,30]
 },
 "2":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 3,
+"dayletterlist": [3,4,5,6,7,10,11,12,13,14,24,25,26,27,28],
+"connectionslist": [4,6,25,27]
 },
 "3":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 2,
+"dayletterlist": [2,3,5,6,9,10,11,12,13,16,17,18,19,20,23,24,26,27,30,31],
+"connectionslist": [3,10,12,17,19,24,31]
 },
 "4":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 2,
+"dayletterlist": [1,2,3,13,14,15,16,17,20,21,22,23,24,27,28,29,30],
+"connectionslist": [14,16,21,23,28,30]
 },
 "5":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 3,
+"dayletterlist": [1,4,5,6,7,8,11,12,13,14,15,18,19,20,21,22,26,28,29],
+"connectionslist": [5,7,12,14,19,26]
 },
 "6":{
-"dayletterliststart": 0,
-"dayletterlist": [],
-"connectionslist": []
+"dayletterliststart": 2,
+"dayletterlist": [1,2],
+"connectionslist": [2]
 }
 }
 }
